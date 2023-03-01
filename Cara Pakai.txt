@@ -1,0 +1,31 @@
+Cara Menggunakan di localhost:
+
+1. Install Software Xampp 1.6.2 (PHP 5)
+2. Copy folder sewa yang di download ke xampp/htdocs
+3. buat database di phpmyadmin (xampp) dengan nama db_rt (penyortiran utf8_bin)
+4. import database db_rt
+5. buka browser, ketik localhost/sesuai nama folder
+6. Gunakan Login
+
+Admin 
+username: admin
+password: 123
+
+User
+username: user
+password: 123
+
+Fitur SMS Gateway harus aktivasi melalui link berikut ini untuk mendapatkan API:
+https://www.zenziva.net/register/console/
+
+Dikarenakan Fitur SMS Gateway berbayar dan ada regulasi dari operator seluler,
+jadi bisa mendaftar terlebih dahulu, pemasangan API bisa dibantu nantinya.
+
+web bisa diupload terlebih dahulu ke penyedia layanan Hosting untuk manfaat fitur yg maksimal.
+
+Terima Kasih,
+
+
+
+
+
